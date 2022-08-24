@@ -1,0 +1,8 @@
+const URL = "winter.com";
+
+{
+const URL = "WINTER.COM";
+comsole.log(URL);
+}
+
+console.log(URL);
