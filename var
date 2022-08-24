@@ -1,0 +1,11 @@
+//变量作用域
+
+var web = "TongXiaodong.com";
+
+function show() {
+var web = "winter"；
+console.log(web);
+}
+
+show();
+console.log(web);
