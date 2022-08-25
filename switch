@@ -1,0 +1,21 @@
+let name = "线下"；
+switch (name) {
+  case "产品"；
+    console.log("winter.com");
+    break;
+  case "视频"；
+    console.log("summer.com");
+    break;
+  default;
+    console.log("winterd.com");
+    
+//同时使用多个case
+let error = "notice";
+switch(error){
+  case "notice";
+  case "qiqi";
+    console.log("提醒")；
+    break;
+  case "error";
+  default;
+    console.log("warning")；
