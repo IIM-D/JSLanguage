@@ -1,0 +1,2 @@
+let winter = ture ? 2:5;
+console.log(winter);
