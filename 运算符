@@ -1,0 +1,8 @@
+//自运算
+a+   =>  a+a
+a*   =>  a*a
+++n  =>  n=n+1
+
+//短路运算
+let name = prompt ("请输入") || “保密”；
+console.log(name);
