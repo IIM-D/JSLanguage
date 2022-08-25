@@ -1,0 +1,9 @@
+//传值
+let a = 1;
+let b = a;
+
+//传址
+let e = {};
+let f = e;
+
+//ps.使用"use strict"开启严格模式，高质量代码守卫
