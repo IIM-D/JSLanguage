@@ -1,0 +1,12 @@
+//continue是停止当前，走下一次的循环过程
+//break是直接终止当前循环
+
+for (let i=1; i<=10; i++){
+  if (i%2) continue;
+  console.log(i);
+ }
+ 
+ for (let i=1; i<=10; i++){
+  console.log(i);
+  break;
+  }
