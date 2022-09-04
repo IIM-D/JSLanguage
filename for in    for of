@@ -1,0 +1,13 @@
+
+//for in _用来处理键名
+let winter = ["win", "win.com"];
+for (let key in winter) {
+  console.log(winter[key]);
+  }
+  
+  //for of_用来处理值
+  
+  let winter = ["win","win.com"];
+  for (const value of winter){
+    console.log(value);
+    }
